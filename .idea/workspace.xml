@@ -1,22 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7dc4dec-76ca-4568-a8bb-b6483b0dc992" name="Default Changelist" comment="" />
+    <list default="true" id="e7dc4dec-76ca-4568-a8bb-b6483b0dc992" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MathMaster/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MathMaster/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/css/Carousel_Image_Slider-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/css/Carousel_Image_Slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/css/Latest-Blog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/css/untitled.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-brands-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/fonts/fontawesome-all.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/avatars/avatar1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/avatars/avatar2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/avatars/avatar3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/avatars/avatar4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/avatars/avatar5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/dogs/image2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/dogs/image3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/got drogon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/logo_green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/med.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/red-pink-and-blue-wallpaper-1910236 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/red-pink-and-blue-wallpaper-1910236 (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/red-pink-and-blue-wallpaper-1910236.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/img/wide.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/js/bs-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/js/chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/assets/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/image-of-the-day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/templates/MathMaster/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathMaster/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MathMaster/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="2557030b-8430-4e13-a0bb-d5dcb6957266" />
   <component name="ProjectId" id="1czFEh5rDxUgOEUCetWaUIaU7OQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="MathMaster" type="Python.DjangoServer" factoryName="Django server">
@@ -51,10 +126,17 @@
       <option name="presentableId" value="Default" />
       <updated>1591523404720</updated>
       <workItem from="1591523407898" duration="12000" />
+      <workItem from="1591524336140" duration="2433000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="738" y="297" width="424" height="508" key="FileChooserDialogImpl" timestamp="1591524966936">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="738" y="297" width="424" height="508" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1591524966936" />
   </component>
 </project>
