@@ -116,10 +116,6 @@
   /* Chrome 10-25, Safari 5.1-6 */background: linear-gradient(to right, #eaafc8, #654ea3);
 }
 
-.progress-bar {
-  background-color: #100;
-}
-
 .card2 {
   background: #11998e;
   /* fallback for old browsers */background: -webkit-linear-gradient(to right, #38ef7d, #11998e);
@@ -148,5 +144,17 @@
   background: #bdc3c7;
   /* fallback for old browsers */background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);
   /* Chrome 10-25, Safari 5.1-6 */background: linear-gradient(to right, #2c3e50, #bdc3c7);
+}
+
+.main-card-loader {
+  background-color: initial;
+}
+
+.bg-info {
+  background-color: #fff!important;
+}
+
+.bg-info-main-card {
+  background-color: #36b9cc!important;
 }
 
