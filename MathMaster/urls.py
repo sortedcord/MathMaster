@@ -19,5 +19,11 @@ from MathMaster import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('home/', views.index),
+    path('home/index.html', views.index),
+    path('home/image-of-the-day.html', views.image_of_the_day),
+    path('home/profile.html', views.profile),
+    path('home/register.html', views.register),
+    path('home/login.html', views.login),
+    path('home/table.html', views.table),
+    path('home/announcements.html', views.announcements),
 ]

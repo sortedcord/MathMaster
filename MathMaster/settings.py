@@ -121,4 +121,4 @@ USE_TZ = True
 STATIC_DIR = os.path.join(BASE_DIR, 'templates/assets')
 STATIC_URL = '/templates/assets/'
 STATICFILES_DIRS = [STATIC_DIR]
-STATIC_ROOT = '/home/mathmaster/templates/assets'
+STATIC_ROOT = '/templates/assets'
