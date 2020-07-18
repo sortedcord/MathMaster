@@ -1,0 +1,29 @@
+.navbar.navbar-dark.align-items-start.sidebar.sidebar-dark.accordion.bg-gradient-primary.p-0 {
+  z-index: 10;
+  position: fixed;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+}
+
+@media (max-width: 765px) {
+  #wrapper #content-wrapper #content {
+    padding-left: 100px;
+  }
+}
+
+@media (min-width: 765px) {
+  #wrapper #content-wrapper #content {
+    padding-left: 225px;
+  }
+}
+
+:root {
+}
+
+:root {
+}
+
+:root {
+}
+
