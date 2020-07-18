@@ -36,7 +36,7 @@ Now, the sitemap will be visible and you can browse the webpages from there.
 For instance, If you want to visit the dashboard homepage-
 
 ```
-http://127.0.0.1:8000/home/index.html
+http://127.0.0.1:8000/
 ```
 
 
