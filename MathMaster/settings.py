@@ -128,3 +128,6 @@ STATIC_URL = '/templates/assets/'
 STATICFILES_DIRS = [STATIC_DIR]
 STATIC_ROOT = '/templates/assets'
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
+
+LOGIN_URL = 'login'
+LOGIN_REDIRECT_URL = 'home'

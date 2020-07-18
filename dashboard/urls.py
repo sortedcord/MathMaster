@@ -21,11 +21,11 @@ from dashboard import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.index, name='home'),
-    path('image-of-the-day.html', views.image_of_the_day, name='img'),
-    path('profile.html', views.profile, name='profile'),
-    path('play.html', views.play, name='play'),
-    path('login.html', auth_views.LoginView.as_view(template_name='login.html'), name="login"),
-    path('logout.html', auth_views.LogoutView.as_view(template_name='logout.html'), name="logout"),
+    path('image-of-the-day', views.image_of_the_day, name='img'),
+    path('profile', views.profile, name='profile'),
+    path('play', views.play, name='play'),
+    path('login', auth_views.LoginView.as_view(template_name='login.html'), name="login"),
+    path('logout', auth_views.LogoutView.as_view(template_name='logout.html'), name="logout"),
 
     path('register', views.register, name="register"),
 
