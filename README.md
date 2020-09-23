@@ -27,7 +27,7 @@ python3 manage.py runserver #Linux and Mac
 
 ### Break down into end to end tests
 
-Once you have run the code with respect to your OS, there will be a IP Adress given in the terminal. Open that IP in your  browser.
+Once you have run the code with respect to your OS, there will be a IP Address given in the terminal. Open that IP in your browser.
 The URL must look like this- 
 ```
 http://127.0.0.1:8000/
